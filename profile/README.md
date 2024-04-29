@@ -3,7 +3,7 @@
 
 🚀 A collection of learning projects written in 100 lines of code  
 
-- ![100-line-code](https://github.com/ruzhila/100-line-code) 
+- [100-line-code](https://github.com/ruzhila/100-line-code) 
 
 
 ## About ruzhila.cn
