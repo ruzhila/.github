@@ -21,7 +21,7 @@
 
   
 ### 🐍 Snake game
-- **Java版本**: [snake-java](https://github.com/ruzhila/snake-java)
+- **Java Version**: [snake-java](https://github.com/ruzhila/snake-java)
 
   
 ### 📊 Excel/CSV to JSON/Mardown converter
